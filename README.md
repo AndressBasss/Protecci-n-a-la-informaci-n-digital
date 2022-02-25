@@ -16,3 +16,13 @@ Dicho lo anterior, esta herramienta puede ser utilizada en un amplio contexto, d
 # Obejtivo
 
 Protección de información privilegiada de los usuarios. 
+
+# Objetivos especificos
+
+Diseñar el algoritmo de encriptación y desencriptación entre los dos formatos.
+
+Implementar el algoritmo en un lenguaje de programación para verificar su
+funcionalidad.
+
+Realizar un protocolo de pruebas del sistema para determinar el porcentaje de
+perdida de información.
