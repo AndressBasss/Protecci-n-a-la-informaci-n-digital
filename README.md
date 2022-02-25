@@ -19,7 +19,7 @@ Protección de información privilegiada de los usuarios.
 
 # Objetivos especificos
 
-Diseñar el algoritmo de encriptación y desencriptación entre los dos formatos.
+Diseñar el algoritmo de encriptación y desencriptación.
 
 Implementar el algoritmo en un lenguaje de programación para verificar su
 funcionalidad.
