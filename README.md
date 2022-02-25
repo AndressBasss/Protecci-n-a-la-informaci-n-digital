@@ -13,9 +13,9 @@ Para esto, ha de buscarse una forma efectiva de minimizar los ataques cibernetic
 Dicho lo anterior, esta herramienta puede ser utilizada en un amplio contexto, donde se tenga una base de datos que los usuarios van llenando progresivamente, en un banco, página web, entre otros.
 
 
-# Obejtivo
+# Obejtivo General
 
-Protección de información privilegiada de los usuarios. 
+Protección de información privilegiada que los usuarios proporcionan a través de notas. 
 
 # Objetivos especificos
 
@@ -26,3 +26,6 @@ funcionalidad.
 
 Realizar un protocolo de pruebas del sistema para determinar el porcentaje de
 perdida de información.
+
+
+# 
