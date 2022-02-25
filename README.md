@@ -4,13 +4,13 @@ Es bien sabido, que la seguridad informatica se enfoca en la proteccion de la in
 
 De allí, la idea principal de proteger se basa: en la encriptacion de notas o cadenas de texto, que las personas proporcionan pero ncesetan ser protegidos.
 
-Dicha protección, se puede lograrm implementando carios niveles de encriptacion, con la creacion de llaves automaticas para dessencriptar dichos datos, utilizando para esto Python.
+Dicha protección, se puede lograr implementando varios niveles de encriptacion, con la creación de llaves automáticas para dessencriptar dichos datos, utilizando para esto Python.
 
 En este sentido, el proyecto surge de la necesidad de solventar un gran problema como el robo de datos de vital importancia, que han venido preparandose desde los últimos años.
 
-para esto, ha de buscarse una forma efectiva de minimizar los ataques civerneticos futuros y fortalecer la postura de seguridad de los usuarios.
+Para esto, ha de buscarse una forma efectiva de minimizar los ataques ciberneticos futuros y fortalecer la postura de seguridad de los usuarios.
 
-Dicho lo anterior, esta herramienta puede ser utilizada en un amplio contezto, donde se tenga una base de datos que los usuarios van llenando progresivamente, en un banco, pagina web, entre otros.}
+Dicho lo anterior, esta herramienta puede ser utilizada en un amplio contexto, donde se tenga una base de datos que los usuarios van llenando progresivamente, en un banco, página web, entre otros.
 
 
 # Obejtivo
